@@ -10,8 +10,8 @@ This repository allows the community to create and maintain localizations for th
 
 # How to import a community-made localization into the game
 
-Well, well, well! To import a community-made localization into the game you have to download this Git Repository (press Code > Download ZIP) or to clone this in your PC (if you have the Git application installed). Then, if, for example, you wanted to install the Chinese localization, all you need to do is to copy the "Chinese" folder and the "Chinese.json" and "Chinese.png" files **into the "\Locale" folder inside the Ternion's game installation folder**. If the "Locale" folder does not exist you can create it.
-Then open the game. By default the game loads the language you select in game properties, but you can override that setting by going into Options on the main menu and Change language. 
+Well, well, well! To import a community-made localization into the game you have to download this Git Repository (press Code > Download ZIP) or to clone this in your PC (if you have the Git application installed). Then, if, for example, you wanted to install the Chinese localization, all you need to do is to copy the "Chinese" folder and the "Chinese.json" and "Chinese.png" files from the "Locale" folder **into the "Locale" folder inside the Ternion game's installation folder**. If the "Locale" folder does not exist you can create it.
+Then open the game. By default the game loads the language you select in game properties, but you can override that setting by pressing Change language in the game's main menu.
 
 # Creating or Editing a Localization
 
@@ -38,6 +38,8 @@ The **per-scene** localization is stored in a sub-directory of the "Locale" dire
 Make sure that every file contains **exactly the same number of lines** as the corresponding file in the "English" folder, since dialogues are matched by line number.
 Many languages (including Italian) have grammatical gender, meaning words may need different forms depending on who is speaking. Because of this, it can sometimes be difficult to determine the correct translation without additional context.
 To help with this, the repository includes several **Helper** CSV files. These files are for reference only and do not need to be modified. They provide useful information about each line, such as the speaker and the corresponding line number. If this information is still not enough to determine the correct translation, the only reliable solution is to find the dialogue in-game.
+
+**Tip:** It is recommended to copy the English files and modify them, rather than creating new ones from scratch!
 
 # Adding Voice Acting
 
