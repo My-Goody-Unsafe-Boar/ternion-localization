@@ -1,6 +1,6 @@
 /.github/CODEOWNERS @SidusBr
-/Italian/ @SidusBr
-/English/ @SidusBr
+/Locale/Italian/ @SidusBr
+/Locale/English/ @SidusBr
 /Helpers/ @SidusBr
-/Dictionary/English.json @SidusBr
-/Dictionary/Italian.json @SidusBr
+/Locale/English.json @SidusBr
+/Locale/Italian.json @SidusBr
