@@ -83,27 +83,27 @@
  "&idesc_revitalizer":"Aiuta qualcuno in condizioni critiche restituendo metà degli HP del bersaglio.",
  "&idesc_hi_revitalizer":"Aiuta qualcuno in condizioni critiche ripristinando tutti gli HP del bersaglio.",
  "&idesc_energizer":"Ripristina un po' di stamina al bersaglio.",
- "&idesc_small_battery":"Ripristina un po' di energia HDev al bersaglio."
+ "&idesc_small_battery":"Ripristina un po' di energia HDev al bersaglio.",
  "&idesc_counterpoison":"Cura lo stato Veleno.",
- "&idesc_coffe":"Un ottimo caffè, ripristina un po' di stamina al bersaglio."
- "&idesc_peango_pie":"Torta al peango, ripiena di frutta, ripristina un po' di HP e stamina al bersaglio."
- "&idesc_bread":"Del pane, ripristina un po' di HP al bersaglio."
- "&idesc_aged_cheese":"Dell'ottimo formaggio stagionato, ripristina un po' di HP al bersaglio."
+ "&idesc_coffe":"Un ottimo caffè, ripristina un po' di stamina al bersaglio.",
+ "&idesc_peango_pie":"Torta al peango, ripiena di frutta, ripristina un po' di HP e stamina al bersaglio.",
+ "&idesc_bread":"Del pane, ripristina un po' di HP al bersaglio.",
+ "&idesc_aged_cheese":"Dell'ottimo formaggio stagionato, ripristina un po' di HP al bersaglio.",
  "&idesc_decorative_plant":"Una pianta molto carina, non ho idea del perché l'abbia comprata.",
  "&idesc_aeroboard":"Questo Aeroboard è stato sviluppato da XAGAS® ed è il modello più recente nonché uno dei più di successo. Altamente affidabile, con buona velocità e maneggevolezza eccezionale, non adatto ai principianti!",
- "&idesc_gravity_bomb":"Colpisce un nemico con una bomba gravitazionale."
- "&idesc_confusion_inhibitor":"Cura lo stato di Confusione."
- "&idesc_small_battery_supplement":"Incrementa la capacità di batteria dell HDev di 10."
- "&idesc_big_battery_supplement":"Incrementa la capacità di batteria dell HDev di 20."
- "&idesc_unknown_supplement":"Integratori alimentari, da usare durante l'allenamento, effetti sconosciuti."
- "&idesc_force_supplement":"?s189:Integratori alimentari, da usare durante l'allenamento, migliora l'abilità nel combattimento."
- "&idesc_defence_supplement":"?s190:Integratori alimentari, da usare durante l'allenamento, migliora la ''Difesa''."
- "&idesc_magic_supplement":"?s191:Integratori alimentari, da usare durante l'allenamento, migliora l'efficacia della BioTech."
- "&idesc_magic_defence_supplement":"?s192:Integratori alimentari, da usare durante l'allenamento, migliora la ''Difesa BioTech''."
- "&idesc_agility_supplement":"?s193:Integratori alimentari, da usare durante l'allenamento, migliora la ''Rapidità''."
- "&idesc_aim_supplement":"?s194:Integratori alimentari, da usare durante l'allenamento, migliora la ''Mira''."
- "&idesc_evasion_supplement":"?s195:Integratori alimentari, da usare durante l'allenamento, migliora l'agilità."
- "&idesc_stamina_supplement":"?s196:Integratori alimentari, da usare durante l'allenamento, migliora la stamina massima."
+ "&idesc_gravity_bomb":"Colpisce un nemico con una bomba gravitazionale.",
+ "&idesc_confusion_inhibitor":"Cura lo stato di Confusione.",
+ "&idesc_small_battery_supplement":"Incrementa la capacità di batteria dell HDev di 10.",
+ "&idesc_big_battery_supplement":"Incrementa la capacità di batteria dell HDev di 20.",
+ "&idesc_unknown_supplement":"Integratori alimentari, da usare durante l'allenamento, effetti sconosciuti.",
+ "&idesc_force_supplement":"?s189:Integratori alimentari, da usare durante l'allenamento, migliora l'abilità nel combattimento.",
+ "&idesc_defence_supplement":"?s190:Integratori alimentari, da usare durante l'allenamento, migliora la ''Difesa''.",
+ "&idesc_magic_supplement":"?s191:Integratori alimentari, da usare durante l'allenamento, migliora l'efficacia della BioTech.",
+ "&idesc_magic_defence_supplement":"?s192:Integratori alimentari, da usare durante l'allenamento, migliora la ''Difesa BioTech''.",
+ "&idesc_agility_supplement":"?s193:Integratori alimentari, da usare durante l'allenamento, migliora la ''Rapidità''.",
+ "&idesc_aim_supplement":"?s194:Integratori alimentari, da usare durante l'allenamento, migliora la ''Mira''.",
+ "&idesc_evasion_supplement":"?s195:Integratori alimentari, da usare durante l'allenamento, migliora l'agilità.",
+ "&idesc_stamina_supplement":"?s196:Integratori alimentari, da usare durante l'allenamento, migliora la stamina massima.",
  "&adesc_StrongAttack":"Un colpo più forte del solito. Causa il 33% in più di danni, ma ha -10% di probabilità di colpire.",
  "&adesc_Focus":"Concentrati e preparati a ricevere un attacco. Assicura la schivata e il contrattacco del prossimo attacco fisico subito. Infligge danni significativi.",
  "&adesc_FakeAttack":"Esegui una finta e un attacco, assicurandoti che l'attacco colpisca il bersaglio.",
@@ -135,7 +135,7 @@
  "&adesc_LethalScissors":"Colpisci un nemico con entrambe le tue lame contemporaneamente. Causa 4,5 volte i danni di un singolo colpo. Difficile da evitare.",
  "&adesc_Rage":"Perdi la pazienza. Infliggerai danni doppi per 3 turni, ma riceverai anche il 20% in più di danni e avrai -35% di probabilità di colpire.",
  "&adesc_BigFreeze":"Un potente attacco che congela tutti i nemici sul posto. Non potranno muoversi finché non verranno colpiti.",
- "&adesc_SonicScissors":"Usa entrambe le tue lame per creare un'onda d'urto che può colpire il tuo nemico da lontano. Causa 6 volte più danni di un colpo standard."
+ "&adesc_SonicScissors":"Usa entrambe le tue lame per creare un'onda d'urto che può colpire il tuo nemico da lontano. Causa 6 volte più danni di un colpo standard.",
  "&adesc_Energy":"Ripristina una quantità discreta di HP a un alleato.",
  "&adesc_Energy+":"Ripristina una grande quantità di HP a un alleato.",
  "&adesc_Blizzard":"Genera un'improvvisa diminuzione della temperatura che è particolarmente efficace contro i nemici con una temperatura corporea elevata.",
@@ -143,7 +143,7 @@
  "&adesc_Thunder":"Genera un'improvviso scoppio di elettroni particolarmente efficace contro i nemici basati su componenti elettronici.",
  "&adesc_Water":"Genera una certa quantità di acqua che è molto efficace contro i nemici con biologia basata sul silicio.",
  "&adesc_Dark":"Genera una piccola struttura simile ad un buco nero che causerà molti danni a causa della radiazione di Hawking.",
- "&adesc_Light":"Genera una piccola struttura simile ad un buco bianco particolarmente efficace contro i nemici particolarmente sensibili ai fotoni."
+ "&adesc_Light":"Genera una piccola struttura simile ad un buco bianco particolarmente efficace contro i nemici particolarmente sensibili ai fotoni.",
  "&adesc_Azathoth":"Utilizza una grande quantità di energia per infliggere danni devastanti ad un nemico, estremamente efficace contro ogni tipo di nemico.",
  "&adesc_BlizzardM":"Genera molti improvvisi cali di temperatura particolarmente efficaci contro nemici con una temperatura corporea elevata. Colpirà diversi bersagli contemporaneamente.",
  "&adesc_Blizzard+":"Genera un forte calo di temperatura estremamente efficace contro i nemici con una temperatura corporea elevata.",
@@ -174,14 +174,14 @@
  "&adesc_ChargeTransfer":"Trasferisce fino a metà della propria carica HDev ad un alleato.",
  "&adesc_AbsorbingShield":"Assorbirà il danno del prossimo attacco BioTech o elementale. Una volta che il colpo è assorbito, lo scudo scompare. Anche i BioTech Protettivi rimuoveranno lo scudo.",
  "&adesc_CureConfusion":"Cura lo stato di confusione di un alleato.",
- "&adesc_ReflectiveShield":"Crea uno scudo che rifletterà il prossimo attacco BioTech o elementale, inclusi i BioTech Protettivi. Lo scudo durerà 3 turni."
+ "&adesc_ReflectiveShield":"Crea uno scudo che rifletterà il prossimo attacco BioTech o elementale, inclusi i BioTech Protettivi. Lo scudo durerà 3 turni.",
  "&adesc_Dissipatio":"Rimuove qualsiasi tipo di scudo non-fisico.",
  "Two Roosters in One Coop: A Tale of Divergent Civilizations (page 127 of 289)": "Due Galli in un Pollaio: La storia di due civiltà divergenti (pagina 127 di 289)",
- "&book_tworoostersinonecoop_127":"... nonostante la crescente resistenza tra le colonie umane, le colonie di Zoi Nangam e Delta Nangam subirono dure punizioni e lavori forzati sotto il dominio dei Beix fino al 1946. Dal 1935, un generale umano di nome Fabritius Hammond Rachet, con il supporto di un comandante dissidente dei Beix, Nixibup Almana S'Et Exabaas Madnai, organizzò un esercito umano composto da circa 830.000 individui sparsi su 118 insediamenti. Molti di questi umani avevano prestato servizio per i Beix come soldati o erano parenti di soldati, mentre altri erano civili che vivevano in condizioni disumane su pianeti colonizzati dai Beix.<br><br>Dopo una guerra di undici anni, il regno del terrore dell'Impero Beix giunse al termine proprio sul pianeta Delta Nangam. Con la sconfitta dei Beix, gli umani ottennero il controllo della loro tecnologia di produzione più avanzata, compresa ..."
+ "&book_tworoostersinonecoop_127":"... nonostante la crescente resistenza tra le colonie umane, le colonie di Zoi Nangam e Delta Nangam subirono dure punizioni e lavori forzati sotto il dominio dei Beix fino al 1946. Dal 1935, un generale umano di nome Fabritius Hammond Rachet, con il supporto di un comandante dissidente dei Beix, Nixibup Almana S'Et Exabaas Madnai, organizzò un esercito umano composto da circa 830.000 individui sparsi su 118 insediamenti. Molti di questi umani avevano prestato servizio per i Beix come soldati o erano parenti di soldati, mentre altri erano civili che vivevano in condizioni disumane su pianeti colonizzati dai Beix.<br><br>Dopo una guerra di undici anni, il regno del terrore dell'Impero Beix giunse al termine proprio sul pianeta Delta Nangam. Con la sconfitta dei Beix, gli umani ottennero il controllo della loro tecnologia di produzione più avanzata, compresa ...",
  "Two Roosters in One Coop: A Tale of Divergent Civilizations (page 128 of 289)": "Due Galli in un Pollaio: La storia di due civiltà divergenti (pagina 128 di 289)",
- "&book_tworoostersinonecoop_128":"... una nave spaziale ribattezzata in seguito Ternion (composta da tre parti) insieme a parte della loro conoscenza scientifica. Sebbene la maggior parte dei pianeti colonizzati dai Beix rimasero sotto il loro controllo, i pianeti con una significativa presenza umana videro i pochi Beix rimasti trasferirsi in altri insediamenti.<br><br>Nel Sistema Nangam, Delta divenne un pianeta prevalentemente umano, mentre Zoi continuò ad avere una popolazione elevata di Beix. Tuttavia la convivenza tra umani e Beix su questi pianeti è stata in gran parte pacifica, nonostante gli anni di precedente schiavitù, con solo pochi casi eccezionali di conflitto. Il reclutamento per la DTA aumentò vertiginosamente a partire dal 1947 e, come credeva fermamente il Generale Rachet, iniziò a coinvolgere esclusivamente esseri umani. L'ultima battaglia avvenne ..."
- "Anthropology of Units":"Antropologia delle Unità"
- "&book_anthropologyofunits":"Secondo studi recenti, i soldati umani sono stati attivamente reclutati dalla DTA per diverse epoche. Circa 1871 EDD fa, il primo soldato umano è stato arruolato dai Beix. Grazie a questi reclutamenti continui, gli umani sono ora sparsi nell'ampia distesa della Via Lattea.<br><br>È degno di nota che gran parte della nostra tecnologia attuale fonda le sue radici nelle innovazioni Beix; tuttavia, importanti progressi sono emersi anche dai più recenti reclutamenti effettuati dalla DTA su pianeti popolati da umani tecnologicamente avanzati.<br><br>Stiamo ora entrando in una nuova ed entusiasmante era di propagazione umana, sollevando una domanda certamente intrigante: Dove ci porterà questo viaggio? Raggiungeremo altre galassie o l'espansione incessante dell'universo creerà barriere insormontabili per le nostre avventure? Solo il tempo lo dirà. Ecco perché dobbiamo tutti riporre la nostra fiducia nella DTA e investire nella ricerca scientifica e tecnologica.<br><br>Sto parlando direttamente a voi ''imprenditori e imprenditrici''!"
+ "&book_tworoostersinonecoop_128":"... una nave spaziale ribattezzata in seguito Ternion (composta da tre parti) insieme a parte della loro conoscenza scientifica. Sebbene la maggior parte dei pianeti colonizzati dai Beix rimasero sotto il loro controllo, i pianeti con una significativa presenza umana videro i pochi Beix rimasti trasferirsi in altri insediamenti.<br><br>Nel Sistema Nangam, Delta divenne un pianeta prevalentemente umano, mentre Zoi continuò ad avere una popolazione elevata di Beix. Tuttavia la convivenza tra umani e Beix su questi pianeti è stata in gran parte pacifica, nonostante gli anni di precedente schiavitù, con solo pochi casi eccezionali di conflitto. Il reclutamento per la DTA aumentò vertiginosamente a partire dal 1947 e, come credeva fermamente il Generale Rachet, iniziò a coinvolgere esclusivamente esseri umani. L'ultima battaglia avvenne ...",
+ "Anthropology of Units":"Antropologia delle Unità",
+ "&book_anthropologyofunits":"Secondo studi recenti, i soldati umani sono stati attivamente reclutati dalla DTA per diverse epoche. Circa 1871 EDD fa, il primo soldato umano è stato arruolato dai Beix. Grazie a questi reclutamenti continui, gli umani sono ora sparsi nell'ampia distesa della Via Lattea.<br><br>È degno di nota che gran parte della nostra tecnologia attuale fonda le sue radici nelle innovazioni Beix; tuttavia, importanti progressi sono emersi anche dai più recenti reclutamenti effettuati dalla DTA su pianeti popolati da umani tecnologicamente avanzati.<br><br>Stiamo ora entrando in una nuova ed entusiasmante era di propagazione umana, sollevando una domanda certamente intrigante: Dove ci porterà questo viaggio? Raggiungeremo altre galassie o l'espansione incessante dell'universo creerà barriere insormontabili per le nostre avventure? Solo il tempo lo dirà. Ecco perché dobbiamo tutti riporre la nostra fiducia nella DTA e investire nella ricerca scientifica e tecnologica.<br><br>Sto parlando direttamente a voi ''imprenditori e imprenditrici''!",
  "Unknown place":"Posto sconosciuto",
  "No mission":"Nessuna missione",
  "Deep space":"Spazio profondo",
@@ -254,7 +254,7 @@
  "Effectiveness":"Efficacia",
  "Type":"Tipologia",
  "Firearm":"Arma da fuoco",
- "Melee weapon":"Arma da mischia"
+ "Melee weapon":"Arma da mischia",
  "Precision":"Precisione",
  "Unaffected":"Invariata",
  "Optimal range":"Portata ottimale",
@@ -307,6 +307,9 @@
  "Empty":"Vuoto",
  "Are you sure you want to overwrite this savegame?":"Sei sicuro di voler sovrascrivere questo salvataggio?",
  "Warning":"Attenzione",
+ "Found":"Trovate",
+ "Time to beat":"Tempo da battere",
+ "All times record":"Record mondiale",
  "You will be able to load this savegame with future updates. Please stay tuned!":"Potrai caricare questo salvataggio con i futuri aggiornamenti. Tieni d'occhio le ultime notizie!",
  "BioTech battery capacity":"Capacità della batteria BioTech",
  "Open HDev":"Attiva l'HDev",
@@ -621,5 +624,5 @@
  "B Vitamins Supplements":"Integratori di vitamina B",
  "Unknown item":"Oggetto sconosciuto",
  
- "Thank you for participating in Early Access! The story will continue with future updates, so stay tuned!":"Grazie per aver partecipato all'Accesso Anticipato! La storia continuerà con futuri aggiornamenti, quindi rimanete sintonizzati!",
+ "Thank you for participating in Early Access! The story will continue with future updates, so stay tuned!":"Grazie per aver partecipato all'Accesso Anticipato! La storia continuerà con futuri aggiornamenti, quindi rimanete sintonizzati!"
 }
