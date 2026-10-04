@@ -71,6 +71,6 @@ The following is an example of the file structure used both in this repository a
 # Branch Management
 
 You are free to work directly on the "**develop**" branch or create a dedicated branch for your language and merge it into "develop" once your work is complete.
-The "**master**" branch contains the localizations that will be officially included in the next game update. It will only contain localizations that have been reviewed and verified by native speakers of that language.
+The "**main**" branch contains the localizations that will be officially included in the next game update. It will only contain localizations that have been reviewed and verified by native speakers of that language.
 It is unlikely that new localizations will be officially included before the game leaves Early Access, since the English localization is still evolving with new scenes and dictionary entries being added over time. Community localizations would therefore require continuous updates to remain complete.
 However, any player can manually use the localizations available in the "develop" branch at their own risk, following the instructions provided in the next section.
